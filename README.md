@@ -13,7 +13,7 @@ Nginx는 가벼움과 높은 성능, 안전화를 목표로 만들어진 오픈�
 |구분|버전|빌드|
 |------|---|---|
 |Ubuntu|22.04.2|-|
-|Nginx|1.24.1|-|
+|Nginx|1.25.1|-|
 
 위 버전을 기준으로 Ubuntu 환경에서 Install 하였습니다. <br>
 nginx, pcre, zlib, openssl Source 파일을 압축하여 Release에 Update 하였습니다. <br>
